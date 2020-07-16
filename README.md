@@ -6,6 +6,6 @@ The solution to this problem is for me to have something evaluate and predict my
 
 A classic case of: because you told me what to do, I'm not going to do.
 
-Sure, there might be better ways of doing this, but I have a tendency to make things very complicated so why stop now :)
+Sure, there might be better ways of doing this, but I have a tendency to make things very complicated so why stop now :) Plus, I get to code more things as a result.
 
 Let's see if this works! I'll try and compile my future screen-times in a nice little graph that's easy on the eyes.
